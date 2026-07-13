@@ -1,0 +1,6 @@
+{
+  "name": "Vittscore",
+  "description": "An MSME Financial Health Score platform featuring synthetic alternative data scoring, visual risk gauges, a radar chart of financial pillars, and an AI copilot stub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
